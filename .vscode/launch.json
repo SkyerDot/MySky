@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "$R0CRB1L",
+            "cwd": "$Recycle.Bin\\S-1-5-21-3350666007-485735534-688065997-1001\\$R0CRB1L",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$R0CRB1L (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-3350666007-485735534-688065997-1001\\$R0CRB1L",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$R0CRB1L (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-3350666007-485735534-688065997-1001\\$R0CRB1L",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "MySky",
+            "cwd": "Users\\joabi\\dev\\MySky",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "MySky (profile mode)",
+            "cwd": "Users\\joabi\\dev\\MySky",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "MySky (release mode)",
+            "cwd": "Users\\joabi\\dev\\MySky",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
