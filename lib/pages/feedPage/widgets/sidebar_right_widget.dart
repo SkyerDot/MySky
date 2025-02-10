@@ -4,8 +4,8 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
-class SideBarLeftWidget extends StatelessWidget {
-  const SideBarLeftWidget({
+class SideBarRightWidget extends StatelessWidget {
+  const SideBarRightWidget({
     super.key,
   });
 
@@ -23,15 +23,17 @@ class SideBarLeftWidget extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text("Menu", style: TextStyle(color: Colors.white)),
-              SizedBox(height: 10),
               Text(
-                "Página Inicial",
+                "Trending",
                 style: TextStyle(color: Colors.white),
               ),
-              Text("Buscar", style: TextStyle(color: Colors.white)),
+              SizedBox(height: 10),
               Text(
-                "Notificações",
+                "#1 The Game Awards",
+                style: TextStyle(color: Colors.white),
+              ),
+              Text(
+                "#2 KamiQUASE",
                 style: TextStyle(color: Colors.white),
               ),
             ],
